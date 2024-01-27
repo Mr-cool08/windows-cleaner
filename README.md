@@ -27,7 +27,7 @@ Follow the on-screen prompts to perform specific actions. The script may require
 
 ## Logging
 
-The program logs its activities to a file named `script.log` in the same directory as the script. Check this log file for details on executed actions and any errors encountered.
+The program logs its activities to a file named `windows cleaner.log` in the same directory as the script. Check this log file for details on executed actions and any errors encountered.
 
 ## Warning
 

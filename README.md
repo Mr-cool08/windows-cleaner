@@ -20,10 +20,8 @@ This Windows Cleaner Program is designed to optimize and clean up your Windows c
 
 ## Usage
 
-1. Download the script (`windows_cleaner.py`) to your computer.
-2. Open a command prompt with administrative privileges.
-3. Navigate to the directory containing the script.
-4. Run the script by executing the command: `python windows_cleaner.py`
+1. Save the script (`windows cleaner.exe`) to your computer.
+2. Execute the program and observe its behavior following any prompts or questions.
 
 Follow the on-screen prompts to perform specific actions. The script may require a system restart to complete some optimizations.
 

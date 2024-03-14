@@ -22,7 +22,8 @@ This Windows Cleaner Program is designed to optimize and clean up your Windows c
 
 1. Download the EXE file (`windows cleaner.exe`) to your computer.
 2. Execute the program and observe its behavior following any prompts or questions.
-3. The program is designed to run on it self but it may need oversight time to time
+3. The program is designed to run on it self but it may need oversight time to time.
+
 Follow the on-screen prompts to perform specific actions. The script may require a system restart to complete some optimizations.
 
 ## Logging
